@@ -1,20 +1,16 @@
 # CSV Data Analyzer PRO
 
-Aplicación desarrollada en Python con Tkinter para análisis de datos CSV.
+Aplicación desarrollada en Python y Tkinter para análisis de datos CSV.
 
 ## Funcionalidades
 
 - Carga de archivos CSV
-- Pegado manual de datos
-- Validación de datos
 - Búsqueda en tiempo real
-- Filtrado dinámico
-- Tabla estilo Excel
-- Ordenamiento de columnas
+- Tabla interactiva tipo Excel
 - Generación de gráficos
-- Exportación de resultados a CSV y Excel
+- Exportación a Excel y CSV
 
-## Tecnologías utilizadas
+## Tecnologías
 
 - Python
 - Tkinter
@@ -22,7 +18,10 @@ Aplicación desarrollada en Python con Tkinter para análisis de datos CSV.
 - Matplotlib
 - OpenPyXL
 
-## Autor
+## 📷 Vista del sistema
 
-Jean Salguedo
-Tecnólogo en Análisis y Desarrollo de Software
+### Vista Principal
+![Vista Principal](screenshots/vistaprincipal.jpeg)
+
+### Vista Creación Gráficos
+![Vista Creación Gráficos](screenshots/vistacreaciongráficos.jpeg)
