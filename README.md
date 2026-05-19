@@ -17,3 +17,11 @@ Aplicación desarrollada en Python y Tkinter para análisis de datos CSV.
 - Pandas
 - Matplotlib
 - OpenPyXL
+
+## Capturas de Pantalla
+
+### Vista Principal
+![Vista Principal](screenshots/vistaprincipal.jpeg)
+
+### Panel de Creación de Gráficos
+![Vista Creación Gráficos](screenshots/vistacreaciongraficos.jpeg)
