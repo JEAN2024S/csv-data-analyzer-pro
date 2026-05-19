@@ -21,7 +21,7 @@ Aplicación desarrollada en Python y Tkinter para análisis de datos CSV.
 ## Capturas de Pantalla
 
 ### Vista Principal
-![Vista Principal](screenshots/vistaprincipal.jpeg)
+![Vista Principal](screenshots/vistaprincipal.jpg)
 
 ### Panel de Creación de Gráficos
-![Vista Creación Gráficos](screenshots/vistacreaciongraficos.jpeg)
+![Vista Creación Gráficos](screenshots/vistacreaciongraficos.jpg)
